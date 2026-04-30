@@ -1,0 +1,13 @@
+.venv
+.git
+.idea
+.chainlit
+.files
+__pycache__
+**/__pycache__
+*.pyc
+.env
+.env.*
+!.env.example
+uv.lock
+README.md
