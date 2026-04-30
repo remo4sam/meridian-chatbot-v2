@@ -10,13 +10,12 @@ pinned: false
 
 # Meridian Electronics AI Support Chatbot
 
-> # 🚨 LIVE DEMO HAS MOVED 🚨
->
-> ## ✅ NEW URL → https://huggingface.co/spaces/remosamuelpaul/meridian-chatbot
->
-> ## ❌ OLD URL (DO NOT USE) → ~~https://c5t6r3lwt3mzxd5c4bqabszqze0pgexv.lambda-url.eu-west-1.on.aws/~~
->
-> The previously submitted AWS Lambda URL is **deprecated and no longer working** — Lambda Function URLs do not support the WebSocket connections Chainlit needs. The chatbot now runs on **Hugging Face Spaces** at the URL above. Please update any bookmarks or submissions.
+<blockquote>
+<h1>🚨 LIVE DEMO HAS MOVED 🚨</h1>
+<h2>✅ NEW URL → <a href="https://huggingface.co/spaces/remosamuelpaul/meridian-chatbot" target="_blank" rel="noopener noreferrer">https://huggingface.co/spaces/remosamuelpaul/meridian-chatbot</a></h2>
+<h2>❌ OLD URL (DO NOT USE) → <s><a href="https://c5t6r3lwt3mzxd5c4bqabszqze0pgexv.lambda-url.eu-west-1.on.aws/" target="_blank" rel="noopener noreferrer">https://c5t6r3lwt3mzxd5c4bqabszqze0pgexv.lambda-url.eu-west-1.on.aws/</a></s></h2>
+<p>The previously submitted AWS Lambda URL is <strong>deprecated and no longer working</strong> — Lambda Function URLs do not support the WebSocket connections Chainlit needs. The chatbot now runs on <strong>Hugging Face Spaces</strong> at the URL above. Please update any bookmarks or submissions.</p>
+</blockquote>
 
 ## Features
 - Chainlit chat UI with streaming responses
