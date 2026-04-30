@@ -1,3 +1,12 @@
+---
+title: Meridian Chatbot
+emoji: 🤖
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+pinned: false
+---
 
 # Meridian Electronics AI Support Chatbot (Enhanced)
 
